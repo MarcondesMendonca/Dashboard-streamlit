@@ -1,4 +1,0 @@
-idade = [21, 22,32]
-
-print(idade)
-
